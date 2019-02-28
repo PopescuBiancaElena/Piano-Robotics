@@ -9,3 +9,4 @@ My second project made for Robotics course, in my second year is a Piano. It has
 - Rezistor 220 ohmi x 6
 - Jumper wires
 ## Video
+- https://youtu.be/tinxs6u1eGE
