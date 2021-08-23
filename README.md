@@ -1,5 +1,3 @@
-#Piano
-
 ## Components:
 - Arduino Uno R3 x 1
 - USB Cable x 1
